@@ -20,5 +20,6 @@ public class Suma {
 
         //Mostrar el resultado
         System.out.println("");
+        System.out.println("La suma de los números es: " + suma);
     }
 }
